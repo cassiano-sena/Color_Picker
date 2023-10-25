@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: [
             Center(
               child: Text(
-                'You are operation on ${kIsWeb ? "the web" : Platform.operatingSystem}',
+                'You are operating on ${kIsWeb ? "the web" : Platform.operatingSystem}',
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
             ),
