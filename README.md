@@ -1,16 +1,9 @@
-# app_one
+# Color Picker
 
-A new Flutter project.
+A quick cross-platform Flutter project.
 
-## Getting Started
+## References
 
-This project is a starting point for a Flutter application.
+This project used content from these sources:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Fireship: Build 5 Apps in 5 Minutes with Flutter… But should you?](https://www.youtube.com/watch?v=7JdcGBSWo50)
